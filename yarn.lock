@@ -2298,13 +2298,13 @@ metascraper-audio@^5.5.0:
   dependencies:
     "@metascraper/helpers" "^5.5.0"
 
-metascraper-author@^4.8.5:
-  version "4.8.5"
-  resolved "https://registry.yarnpkg.com/metascraper-author/-/metascraper-author-4.8.5.tgz#444f4685bff8ba4a5aae65a8378bd0b0686e3407"
-  integrity sha512-3RppM4OjUI7+aWzMoFhIBlqRXi5GZ+1p7N4fYO2ztEDZFopyIHuMK9AbBgmHUb7OEeVvSMKh6OAGV7lRANuYyQ==
+metascraper-author@^5.5.0:
+  version "5.5.0"
+  resolved "https://registry.yarnpkg.com/metascraper-author/-/metascraper-author-5.5.0.tgz#4d19521bbeecb1feaa3c62abf9999ca9ed7c3982"
+  integrity sha512-ZCze/yteEqyUrd4onng768XInLoMV58JEGunROE03JzTIgeOBR/pAz06OsnNWEhdgm6eLvAJ8QYmH91XCqoeBw==
   dependencies:
-    "@metascraper/helpers" "^4.8.5"
-    lodash "~4.17.10"
+    "@metascraper/helpers" "^5.5.0"
+    lodash "~4.17.11"
 
 metascraper-clearbit-logo@^5.3.0:
   version "5.3.0"
