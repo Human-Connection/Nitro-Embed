@@ -2366,12 +2366,12 @@ metascraper-logo@^5.5.0:
   dependencies:
     "@metascraper/helpers" "^5.5.0"
 
-metascraper-publisher@^4.8.5:
-  version "4.8.5"
-  resolved "https://registry.yarnpkg.com/metascraper-publisher/-/metascraper-publisher-4.8.5.tgz#762d4f257123987b812a919173991432062641b7"
-  integrity sha512-9DvfBTy+X+rXoKujAC6BHwgfqkekWGZx5ci1JNG13ypYUKztyATrKxy2XUSImUFfL0F7zHVLd3QxrknKimNq2Q==
+metascraper-publisher@^5.5.0:
+  version "5.5.0"
+  resolved "https://registry.yarnpkg.com/metascraper-publisher/-/metascraper-publisher-5.5.0.tgz#40627fedc462961486b56eb532119886d23f9615"
+  integrity sha512-XJE5irc6Rf352oNXMcS0tmWf+ptoZJYUrPmltuMX6C6+qdJpDR9vnHnGhdIpf8pDDoxBzVi3PARenNwCEBonVw==
   dependencies:
-    "@metascraper/helpers" "^4.8.5"
+    "@metascraper/helpers" "^5.5.0"
 
 metascraper-soundcloud@^5.5.3:
   version "5.5.3"
