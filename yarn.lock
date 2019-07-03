@@ -2334,12 +2334,12 @@ metascraper-image@^4.8.5:
   dependencies:
     "@metascraper/helpers" "^4.8.5"
 
-metascraper-lang-detector@^4.8.5:
-  version "4.8.5"
-  resolved "https://registry.yarnpkg.com/metascraper-lang-detector/-/metascraper-lang-detector-4.8.5.tgz#68cea1b2b9640393da21ce9717d88a3fe956f015"
-  integrity sha512-jYyhBjkUoGGl7OHtP7ALUuOwNs9bh/smstQIJIuIM42y7DNccQh1sRLBvcLdweRYB6wr6HIsWo/tdhIhpu/WFQ==
+metascraper-lang-detector@^4.10.2:
+  version "4.10.2"
+  resolved "https://registry.yarnpkg.com/metascraper-lang-detector/-/metascraper-lang-detector-4.10.2.tgz#45744bc331125c098e8b27716d76740161b121d2"
+  integrity sha512-Lz1d5v/i1j08gQYz7sCdoxjOx94ArLV4UucUhGZeQpR4E6dK47V6aqfYwODRe2XAqhaU+3oLnbAipoHkOeZXiw==
   dependencies:
-    "@metascraper/helpers" "^4.8.5"
+    "@metascraper/helpers" "^4.10.2"
     franc "~4.0.0"
     iso-639-3 "~1.1.0"
 
