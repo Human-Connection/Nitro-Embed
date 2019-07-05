@@ -37,10 +37,10 @@
     url-regex "~4.1.1"
     video-extensions "~1.1.0"
 
-"@metascraper/helpers@^5.5.0":
-  version "5.5.0"
-  resolved "https://registry.yarnpkg.com/@metascraper/helpers/-/helpers-5.5.0.tgz#38033895e404f3913791047b85b457ee84804880"
-  integrity sha512-VdWKWxcYVd3uzPNxr4Aucl+LSmvLzwgrvF+EIX6pNN+n66mMjimnVSTENQaWo7/aYOxF7IPyC9aBlIq9C1JDXA==
+"@metascraper/helpers@^5.5.0", "@metascraper/helpers@^5.5.4":
+  version "5.5.4"
+  resolved "https://registry.yarnpkg.com/@metascraper/helpers/-/helpers-5.5.4.tgz#2c85a4d9cea7afcdb18999d57df1958834e013fc"
+  integrity sha512-UA5l+nb9uRnqQBW1qxzk0DqF0OngcBPDwuUgbatBMVgOqUrDLFJMHOaCWZ8GSWap1Yc7vuJR+Yb1GvYhg3Caqw==
   dependencies:
     audio-extensions "0.0.0"
     chrono-node "~1.3.11"
@@ -53,7 +53,7 @@
     iso-639-3 "~1.2.0"
     isostring "0.0.1"
     lodash "~4.17.11"
-    mem "~5.1.0"
+    mem "~5.1.1"
     mime-types "~2.1.24"
     normalize-url "~4.3.0"
     smartquotes "~2.3.1"
@@ -2272,7 +2272,7 @@ media-typer@0.3.0:
   resolved "https://registry.yarnpkg.com/media-typer/-/media-typer-0.3.0.tgz#8710d7af0aa626f8fffa1ce00168545263255748"
   integrity sha1-hxDXrwqmJvj/+hzgAWhUUmMlV0g=
 
-mem@~5.1.0:
+mem@~5.1.1:
   version "5.1.1"
   resolved "https://registry.yarnpkg.com/mem/-/mem-5.1.1.tgz#7059b67bf9ac2c924c9f1cff7155a064394adfb3"
   integrity sha512-qvwipnozMohxLXG1pOqoLiZKNkC4r4qqRucSoDwXowsNGDSULiqFTRUF05vcZWnwJSG22qTsynQhxbaMtnX9gw==
@@ -2366,12 +2366,12 @@ metascraper-logo@^5.5.0:
   dependencies:
     "@metascraper/helpers" "^5.5.0"
 
-metascraper-publisher@^4.8.5:
-  version "4.8.5"
-  resolved "https://registry.yarnpkg.com/metascraper-publisher/-/metascraper-publisher-4.8.5.tgz#762d4f257123987b812a919173991432062641b7"
-  integrity sha512-9DvfBTy+X+rXoKujAC6BHwgfqkekWGZx5ci1JNG13ypYUKztyATrKxy2XUSImUFfL0F7zHVLd3QxrknKimNq2Q==
+metascraper-publisher@^5.5.4:
+  version "5.5.4"
+  resolved "https://registry.yarnpkg.com/metascraper-publisher/-/metascraper-publisher-5.5.4.tgz#8f39a927c0e32eb7c1b742b087efec4110a50e42"
+  integrity sha512-uuVUoNtfjRw0f72rXM12/mNk2sDfFuzKA/gtodKqe8r/j1WEFo7Vh+hHZ7AFJ6u3ruUuFZ4xeps7Ar7Yj3GOtw==
   dependencies:
-    "@metascraper/helpers" "^4.8.5"
+    "@metascraper/helpers" "^5.5.4"
 
 metascraper-soundcloud@^5.5.3:
   version "5.5.3"
