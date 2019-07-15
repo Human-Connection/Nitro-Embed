@@ -44,7 +44,7 @@
     "metascraper-title": "^4.8.5",
     "metascraper-url": "^5.5.0",
     "metascraper-video": "^4.8.5",
-    "metascraper-youtube": "^4.8.5",
+    "metascraper-youtube": "^5.6.2",
     "request": "^2.88.0",
     "request-promise-native": "^1.0.5"
   },
